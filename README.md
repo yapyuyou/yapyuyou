@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-#### Wow look at these fancy [buildings](https://skyline.github.com/yapyuyou/2023)
-
 <!--
 **yapyuyou/yapyuyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
