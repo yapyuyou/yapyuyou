@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="775" height="1096" viewBox="0 0 775 1096" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="SVG export trial" clip-path="url(#clip0_843_2)">
+<rect id="Sample Certificate-blank for pdf 1" width="775" height="1096" fill="white"/>
+<text text-anchor="middle" id="AGENCY OF TESTING" fill="#145080" xml:space="preserve" style="white-space: pre" font-family="Nunito" font-size="22" font-weight="800" letter-spacing="0em"><tspan x="50%" y="839.738">AGENCY OF TESTING</tspan></text>
+<image x="450" y="840" width="200" height="200" href="{{official.signature}}"/>
+<text text-anchor="middle" id="TESTING INSTITUTE OF SINGAPORE" fill="#145080" xml:space="preserve" style="white-space: pre" font-family="Nunito" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="50%" y="866.422">TESTING INSTITUTE OF SINGAPORE</tspan></text>
+<text id="conducted by" fill="#5DBAB2" xml:space="preserve" style="white-space: pre" font-family="Nunito" font-size="18" font-weight="800" letter-spacing="0em"><tspan x="334.188" y="791.922">conducted by</tspan></text>
+<text id="{{course.endDate }}" fill="#145080" xml:space="preserve" style="white-space: pre" font-family="Nunito" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="137.352" y="989.264">{{course.endDate}}</tspan></text>
+<text id="CERTIFICATE OF COMPLETION" fill="#145080" xml:space="preserve" style="white-space: pre" font-family="Nunito" font-size="43" font-weight="bold" letter-spacing="0em"><tspan x="251.222" y="343.647">CERTIFICATE&#10;</tspan><tspan x="209.461" y="400.647">OF COMPLETION</tspan></text>
+<text id="awarded to" fill="#5DBAB2" xml:space="preserve" style="white-space: pre" font-family="Nunito" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="337.292" y="455.922">awarded to</tspan></text>
+<text text-anchor="middle" id="{{ recipient.name }}" fill="#145080" stroke="#145080" stroke-width="0.7" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="48" letter-spacing="0.02em"><tspan x="50%" y="517.955">{{recipient.name}}</tspan></text>
+<text text-anchor="middle" id="for successfully completing" fill="#5DBAB2" xml:space="preserve" style="white-space: pre" font-family="Nunito" font-size="18" font-weight="800" letter-spacing="0em"><tspan x="50%" y="622.922">for successfully completing</tspan></text>
+<text text-anchor="middle" id="{{course.name}} {{course.fromDate}} - {{ course.endDate }}" fill="#145080" xml:space="preserve" style="white-space: pre" font-family="Nunito" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="50%" y="673.58">{{course.name}}&#10;</tspan><tspan x="50%" y="701.58">{{course.fromDate}} - {{course.endDate}}</tspan></text>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_843_2" transform="scale(0.00126103 0.000891698)"/>
+</pattern>
+<clipPath id="clip0_843_2">
+<rect width="775" height="1096" fill="white"/>
+</clipPath>
+</defs>
+</svg>
